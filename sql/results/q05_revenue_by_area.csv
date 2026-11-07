@@ -1,0 +1,10 @@
+rnk,area,segment,deals,revenue_aed_m,pct_of_revenue,cumulative_pct,revenue_per_deal_aed_k,avg_psf_aed
+1,Dubai Marina,Waterfront,1058,166.9,20.3,20.3,158.0,2936.0
+2,Downtown Dubai,Prime,840,163.16,19.8,40.1,194.0,3639.0
+3,Business Bay,Urban,814,109.07,13.2,53.3,134.0,2574.0
+4,Dubai Hills Estate,Master Community,633,91.38,11.1,64.4,144.0,2735.0
+5,Palm Jumeirah,Prime,434,90.41,11.0,75.4,208.0,4203.0
+6,Jumeirah Village Circle,Affordable,975,87.27,10.6,86.0,90.0,1705.0
+7,Al Barsha,Urban,421,42.68,5.2,91.1,101.0,1789.0
+8,Arabian Ranches,Villa Community,365,41.58,5.0,96.2,114.0,2208.0
+9,Dubai South,Affordable,460,31.35,3.8,100.0,68.0,1290.0

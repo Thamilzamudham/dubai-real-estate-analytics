@@ -1,0 +1,13 @@
+segment,sale_type,deals,avg_days,max_days,pct_over_60_days
+Villa Community,Secondary,166,53.5,137,37.3
+Master Community,Secondary,271,52.5,162,32.8
+Urban,Secondary,524,51.2,148,29.2
+Waterfront,Secondary,481,51.2,200,28.1
+Affordable,Secondary,662,50.3,159,29.9
+Prime,Secondary,575,49.3,185,25.4
+Waterfront,Off-Plan,577,31.1,109,5.2
+Prime,Off-Plan,699,30.4,99,4.9
+Urban,Off-Plan,711,30.2,106,4.1
+Master Community,Off-Plan,362,30.0,89,3.6
+Affordable,Off-Plan,773,29.6,108,4.9
+Villa Community,Off-Plan,199,28.8,94,4.0

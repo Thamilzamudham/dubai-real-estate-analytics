@@ -1,0 +1,21 @@
+agent_id,agent_name,team,join_date
+1,Agent A,Prime Team,2023-12-22
+2,Agent B,Secondary Team,2021-07-26
+3,Agent C,Prime Team,2024-12-10
+4,Agent D,Prime Team,2024-12-09
+5,Agent E,Off-Plan Team,2021-09-12
+6,Agent F,Secondary Team,2024-04-16
+7,Agent G,Off-Plan Team,2022-09-03
+8,Agent H,Secondary Team,2023-06-10
+9,Agent I,Secondary Team,2022-10-30
+10,Agent J,Prime Team,2024-03-19
+11,Agent K,Secondary Team,2025-02-03
+12,Agent L,Off-Plan Team,2024-04-07
+13,Agent M,Off-Plan Team,2024-10-29
+14,Agent N,Prime Team,2024-11-20
+15,Agent O,Off-Plan Team,2021-05-16
+16,Agent P,Secondary Team,2022-01-16
+17,Agent Q,Off-Plan Team,2023-12-19
+18,Agent R,Prime Team,2023-06-05
+19,Agent S,Off-Plan Team,2021-03-17
+20,Agent T,Secondary Team,2021-05-23

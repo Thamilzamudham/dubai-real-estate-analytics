@@ -1,0 +1,5 @@
+tenure_bucket,agent_months,deals,deals_per_agent_month,revenue_per_agent_month_aed_k
+1) 0-5 months,91,893,9.81,1179.0
+2) 6-11 months,85,795,9.35,1273.9
+3) 12-23 months,200,1865,9.32,1254.6
+4) 24+ months,354,2447,6.91,1009.3

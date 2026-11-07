@@ -1,0 +1,21 @@
+rnk,quartile,agent_name,team,deals,revenue_aed_m,vs_team_avg_pct,avg_days_to_close
+1,1,Agent I,Secondary Team,958,122.35,148.0,39.8
+2,1,Agent J,Prime Team,479,69.81,63.0,38.2
+3,1,Agent A,Prime Team,470,64.76,51.0,39.8
+4,1,Agent B,Secondary Team,483,62.88,28.0,40.2
+5,1,Agent T,Secondary Team,447,59.39,21.0,38.0
+6,2,Agent S,Off-Plan Team,346,48.12,52.0,40.7
+7,2,Agent M,Off-Plan Team,311,46.6,47.0,40.3
+8,2,Agent O,Off-Plan Team,348,44.9,42.0,38.2
+9,2,Agent R,Prime Team,294,40.38,-6.0,37.4
+10,2,Agent D,Prime Team,257,38.09,-11.0,39.3
+11,3,Agent H,Secondary Team,297,37.39,-24.0,40.1
+12,3,Agent L,Off-Plan Team,202,30.44,-4.0,38.7
+13,3,Agent F,Secondary Team,162,25.66,-48.0,40.7
+14,3,Agent C,Prime Team,160,24.49,-43.0,38.3
+15,3,Agent Q,Off-Plan Team,174,24.32,-23.0,38.8
+16,4,Agent P,Secondary Team,188,23.33,-53.0,40.3
+17,4,Agent N,Prime Team,131,19.75,-54.0,42.5
+18,4,Agent G,Off-Plan Team,130,16.21,-49.0,42.3
+19,4,Agent K,Secondary Team,80,13.86,-72.0,36.4
+20,4,Agent E,Off-Plan Team,83,11.09,-65.0,37.2
